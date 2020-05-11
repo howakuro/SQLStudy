@@ -1,0 +1,1 @@
+SELECT name, to_char(birth,'YYYY年MM月DD日') FROM players;

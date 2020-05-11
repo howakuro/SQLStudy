@@ -1,0 +1,2 @@
+SELECT * FROM players 
+    WHERE  weight/POW(CAST(height AS REAL)/100,2) BETWEEN 20 AND 21;

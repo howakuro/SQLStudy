@@ -1,0 +1,1 @@
+SELECT name, club, height + weight AS height_weight_add FROM players;
